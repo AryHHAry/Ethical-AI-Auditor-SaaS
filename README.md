@@ -291,7 +291,7 @@ We welcome contributions! Please:
 
 ## 📄 License
 
-Copyright © 2024 Ethical AI Auditor. All rights reserved.
+Copyright © 2026 Ethical AI Auditor. All rights reserved.
 
 This software is provided for demonstration and educational purposes.
 
@@ -312,19 +312,19 @@ For commercial licensing, custom features, or enterprise support:
 
 ## 🗺️ Roadmap
 
-### Version 1.1 (Q2 2024)
+### Version 1.1 (Q2 2026)
 - [ ] REST API endpoints
 - [ ] User authentication system
 - [ ] Audit history dashboard
 - [ ] Email notifications
 
-### Version 1.2 (Q3 2024)
+### Version 1.2 (Q3 2026)
 - [ ] Multi-model comparison
 - [ ] Advanced explainability (SHAP, LIME)
 - [ ] Custom metric definitions
 - [ ] White-label options
 
-### Version 2.0 (Q4 2024)
+### Version 2.0 (Q4 2026)
 - [ ] Real-time monitoring
 - [ ] Automated remediation suggestions
 - [ ] Multi-language support
